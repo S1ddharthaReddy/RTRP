@@ -1,0 +1,8 @@
+streamlit 
+PyPDF2
+io
+base64
+numpy 
+tempfile
+os
+time
